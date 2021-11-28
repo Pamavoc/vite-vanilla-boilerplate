@@ -1,1 +1,1 @@
-N'en déplaise à la racaille développeur, pas de Typescript ici.
+N'en déplaise aux racailles développeurs, pas de Typescript ici.
